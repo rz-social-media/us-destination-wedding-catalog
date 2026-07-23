@@ -16,3 +16,5 @@
 .option-lines li:before{content:"";background:var(--burgundy);opacity:.72;border-radius:50%;width:5px;height:5px;position:absolute;top:.78em;left:0}
 
 .card .price-note{font-family:var(--sans);text-align:center;color:#372b1eb3;font-size:.8rem;font-weight:400;margin:0 0 14px}
+
+.card .option-coverage{border-top:1px solid var(--rule-soft);font-family:var(--sans);text-align:center;color:#372b1ec7;margin:0 0 18px;padding:16px 0 0;font-size:.95rem;font-weight:300;line-height:1.7}
